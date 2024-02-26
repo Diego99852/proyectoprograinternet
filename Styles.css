@@ -1,0 +1,18 @@
+
+.jumbotron-bg {
+    background-image: url('imagen.jpg');
+    background-size: 100%; 
+    background-position: center; 
+    color: rgb(48, 38, 102);
+    padding: 150px 0; 
+    width: auto;
+    height: auto;
+    font: georgia;
+}
+
+#body{
+    background: rgb(175, 174, 174);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
